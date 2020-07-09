@@ -1,4 +1,4 @@
-### What's up? 👋 
+### What's up? 👋🏻 
 
 I'm Rafael Martins, I'm a Front-end Developer 👨🏻‍💻 
 
@@ -7,7 +7,7 @@ I'm Rafael Martins, I'm a Front-end Developer 👨🏻‍💻
 - 📣 We can talk in: English or Portuguese
 
 ### Useful links: 
-[👉 Portfolio](https://rafaelmartins92.github.io/portfolio/) [👉 Linkedin](https://www.linkedin.com/in/rafael-martins92/) [👉 Medium](https://medium.com/@rafael.martins92) [👉 Instagram](https://www.instagram.com/raafs92)
+[👉🏻 Portfolio](https://rafaelmartins92.github.io/portfolio/) [👉🏻 Linkedin](https://www.linkedin.com/in/rafael-martins92/) [👉🏻 Medium](https://medium.com/@rafael.martins92) [👉🏻 Instagram](https://www.instagram.com/raafs92)
 
 <!--
 **rafaelmartins92/rafaelmartins92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
