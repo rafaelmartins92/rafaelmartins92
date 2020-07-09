@@ -2,7 +2,7 @@
 
 I'm Rafael Martins, I'm a Front-end Developer 👨🏻‍💻 
 
-- 🚀 I’m currently learning JavaScript, React and React Native
+- 🚀 I’m currently learning: JavaScript, React and React Native
 - 💬 Ask me about: Tech, Photography and Investments
 - 📣 We can talk in: English or Portuguese
 
