@@ -1,10 +1,10 @@
 ### What's up? 👋 
 
-I'm Rafael Martins, I'm a Front-end Developer 👨‍💻 
+I'm Rafael Martins, I'm a Front-end Developer 👨🏻‍💻 
 
-- 🌱 I’m currently learning JavaScript, React and React Native
+- 🚀 I’m currently learning JavaScript, React and React Native
 - 💬 Ask me about: Tech, Photography and Investments
-- ⚡ We can talk in: English or Portuguese
+- 📣 We can talk in: English or Portuguese
 
 ### Useful links: 
 [👉 Portfolio](https://rafaelmartins92.github.io/portfolio/) [👉 Linkedin](https://www.linkedin.com/in/rafael-martins92/) [👉 Medium](https://medium.com/@rafael.martins92) [👉 Instagram](https://www.instagram.com/raafs92)
