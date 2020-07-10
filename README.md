@@ -3,8 +3,7 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rafael.martins92)](https://medium.com/@rafael.martins92)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&link=https://whats.link/rafaelmartins92)](https://whats.link/rafaelmartins92)
 [![Outlook Badge](https://img.shields.io/badge/-rafael.matins92@outlook.com-6633cc?style=flat-square&logo=Windows&logoColor=white&link=mailto:rafael.martins92@outlook.com)](mailto:rafael.martins92@outlook.com)
-
-### What's up? 👋🏻 
+## What's up? 👋🏻 
 
 I'm Rafael Martins, I'm a Front-end Developer 👨🏻‍💻 
 
