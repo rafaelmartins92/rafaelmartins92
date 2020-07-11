@@ -1,6 +1,6 @@
 ## What's up? 👋🏻 
 
-I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafaelmartins92/rafaelmartins92/blob/master/developer.gif" width="32px"> 👨🏻‍💻 
+I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafaelmartins92/rafaelmartins92/blob/master/developer.gif" width="32px">
 
 - 🚀 I’m currently learning: JavaScript, React and React Native
 - 💬 Ask me about: Tech, Photography and Investments
