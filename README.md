@@ -2,8 +2,8 @@
 
 I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafaelmartins92/rafaelmartins92/blob/master/developer.gif" width="32px">
 
-- 🚀 I’m currently learning: JavaScript, React and React Native
-- 💬 Ask me about: Tech, Photography and Investments
+- 🚀 I’m currently learning: JavaScript, React JS and React Native
+- 💬 Ask me about: Technology, Photography, Travels and Investments
 - 📣 We can talk in: English or Portuguese
 
 [![Instagram Badge](https://img.shields.io/badge/-Follow%20me-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/raafs92)](https://www.instagram.com/raafs92) 
