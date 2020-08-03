@@ -6,12 +6,50 @@ I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafae
 - 💬 Ask me about: Technology, Photography, Travels and Investments
 - 📣 We can talk in: English or Portuguese
 
-[![Instagram Badge](https://img.shields.io/badge/-Follow%20me-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/raafs92)](https://www.instagram.com/raafs92) 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-martins92/)](https://www.linkedin.com/in/rafael-martins92/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@rafael.martins92)](https://medium.com/@rafael.martins92)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&link=https://whats.link/rafaelmartins92)](https://whats.link/rafaelmartins92)
-[![Outlook Badge](https://img.shields.io/badge/-rafael.matins92@outlook.com-6633cc?style=flat-square&logo=Windows&logoColor=white&link=mailto:rafael.martins92@outlook.com)](mailto:rafael.martins92@outlook.com)
-
+<p>
+  <a
+    href="https://rafaelmartins92.github.io/portfolio/"
+    alt="Portfolio"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-rafaelmartins92.com-6633cc?style=flat&logo=Polymer-Project&logoColor=white" />
+  </a>
+  <a
+    href="https://www.instagram.com/raafs92" 
+    alt="Instagram"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+  <a
+    href="https://www.linkedin.com/in/rafael-martins92/" 
+    alt="LinkedIn"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a
+    href="https://medium.com/@rafael.martins92" 
+    alt="Medium"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Medium-6633cc?style=flat&logo=Medium&logoColor=white" />
+  </a>
+  <a
+    href="mailto:rafael.martins92@outlook.com" 
+    alt="Outlook"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-Outlook-6633cc?style=flat&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a
+    href="https://whats.link/rafaelmartins92" 
+    alt="WhatsApp"
+    target="blank"
+  >
+    <img src="https://img.shields.io/badge/-WhatsApp-6633cc?style=flat&logo=WhatsApp&logoColor=white" />
+  </a>
+  
 <!--
 **rafaelmartins92/rafaelmartins92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
