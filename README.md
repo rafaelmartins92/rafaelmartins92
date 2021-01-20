@@ -43,7 +43,7 @@ I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafae
     <img src="https://img.shields.io/badge/-Outlook-6633cc?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://whats.link/rafaelmartins92" 
+    href="https://whats.link/rafaelmartins1992" 
     alt="WhatsApp"
     target="blank"
   >
