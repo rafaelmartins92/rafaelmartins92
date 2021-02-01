@@ -10,42 +10,42 @@ I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafae
   <a
     href="https://rafaelmartins92.github.io/portfolio/"
     alt="Portfolio"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-rafaelmartins92.com-6633cc?style=flat&logo=Polymer-Project&logoColor=white" />
   </a>
   <a
     href="https://www.instagram.com/raafs92" 
     alt="Instagram"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Instagram-6633cc?style=flat&logo=Instagram&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/rafael-martins92/" 
     alt="LinkedIn"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://medium.com/@rafael.martins92" 
     alt="Medium"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Medium-6633cc?style=flat&logo=Medium&logoColor=white" />
   </a>
   <a
     href="mailto:rafael.martins92@outlook.com" 
     alt="Outlook"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-Outlook-6633cc?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
     href="https://whats.link/rafaelmartins1992" 
     alt="WhatsApp"
-    target="blank"
+    target="_blank"
   >
     <img src="https://img.shields.io/badge/-WhatsApp-6633cc?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
