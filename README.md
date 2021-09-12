@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ik.imagekit.io/rafaelmartins/README/README_Rafael_Martins_5XWFci886et.svg?updatedAt=1631451131695"  alt="accessibility text">
+  <img src="https://ik.imagekit.io/rafaelmartins/README/README_Rafael_Martins_L2w-t26yCAn.svg"  alt="accessibility text">
 </p>
 
 <p align="center">
