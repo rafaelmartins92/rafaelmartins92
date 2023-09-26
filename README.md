@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ik.imagekit.io/rafaelmartins/README/README_Rafael_Martins_SIiZt6n7x5c.svg?updatedAt=1631454229360"  alt="accessibility text">
+  <img src="https://ik.imagekit.io/rafaelmartins/README/README%20Rafael%20Martins_NSTAwoB0Q.svg?updatedAt=1695734097014"  alt="Rafael Martins Cover Letter">
 </p>
 
 <p align="center">
