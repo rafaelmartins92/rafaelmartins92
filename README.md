@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://ik.imagekit.io/rafaelmartins/README/README%20Rafael%20Martins_yR5v3jbz8.png?updatedAt=1696380483149"  alt="Rafael Martins Cover Letter">
+  <img src="https://ik.imagekit.io/rafaelmartins/README/README%20Rafael%20Martins_yse9bszW6H.png?updatedAt=1702938828370"  alt="Rafael Martins Cover Letter">
 </p>
 
 <p align="center">
@@ -53,26 +53,3 @@
   >
     <img src="https://img.shields.io/badge/instagram-1A1A1A.svg?style=for-the-badge&logo=Instagram&logoColor=FCBD38" />
   </a>
-  
-<!--
-I'm Rafael Martins, I'm a Front-end Developer <img src="https://github.com/rafaelmartins92/rafaelmartins92/blob/master/developer.gif" width="32px">
-
-- 🚀 I’m currently learning: JavaScript, React JS and React Native
-- 💬 Ask me about: Technology, Photography, Travels and Investments
-- 📣 We can talk in: English or Portuguese
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my personal blog with Gatsby, React, GraphQL and Netlify 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### Useful links: 
-[👉🏻 Portfolio](https://rafaelmartins92.github.io/portfolio/) [👉🏻 Linkedin](https://www.linkedin.com/in/rafael-martins92/) [👉🏻 Medium](https://medium.com/@rafael.martins92) [👉🏻 Instagram](https://www.instagram.com/raafs92)
-
--->
