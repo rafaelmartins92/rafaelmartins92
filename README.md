@@ -31,7 +31,7 @@ I have worked on a diverse range of projects, from international e-commerce plat
 ## Explore My Portfolio and Projects
 
 - [My Portfolio](https://www.orafadedev.com.br/)
-- [GitHub Profile](https://github.com/rafaelmartins92)
+- [Linkedin Profile](https://www.linkedin.com/in/rafael-martins92/)
 - [CodePen Profile](https://codepen.io/rafaelmartins92)
 
 ## Follow Me for Development Tips and Insights
