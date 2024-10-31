@@ -34,10 +34,6 @@ I have worked on a diverse range of projects, from international e-commerce plat
 - [Linkedin Profile](https://www.linkedin.com/in/rafael-martins92/)
 - [CodePen Profile](https://codepen.io/rafaelmartins92)
 
-## Follow Me for Development Tips and Insights
-
-- [Instagram](https://www.instagram.com/orafadedev/)
-
 ## Contact Me
 
 - 📞 (13) 99176-7699
@@ -91,11 +87,4 @@ Feel free to reach out if you're interested in collaboration or just want to cha
     target="_blank"
   >
     <img src="https://img.shields.io/badge/whatsapp-1A1A1A?style=for-the-badge&logo=whatsapp&logoColor=FCBD38" />
-  </a>
-  <a
-    href="https://www.instagram.com/raafs92" 
-    alt="Instagram"
-    target="_blank"
-  >
-    <img src="https://img.shields.io/badge/instagram-1A1A1A.svg?style=for-the-badge&logo=Instagram&logoColor=FCBD38" />
   </a>
