@@ -1,6 +1,6 @@
 # Hello, I'm Rafael Martins 👋
 
-I'm a Developer with over 4 years of experience, specializing in creating high-quality solutions using JavaScript and modern technologies. My academic background in Systems Analysis and Development and Electrical Engineering, combined with various specialized courses, provides me with a solid foundation and a passion for innovation.
+I'm a Developer with over 5 years of experience, specializing in creating high-quality solutions using JavaScript and modern technologies. My academic background in Systems Analysis and Development and Electrical Engineering, combined with various specialized courses, provides me with a solid foundation and a passion for innovation.
 
 ## Key Skills
 
