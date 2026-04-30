@@ -2,8 +2,8 @@ name: Update README with Years of Experience
 
 on:
   schedule:
-    # Executa todo dia 1º de janeiro às 00:00 UTC
-    - cron: '0 0 1 1 *'
+    # Executa todo dia 2 de Julho às 00:00 UTC
+    - cron: '0 0 2 7 *'
   workflow_dispatch: # Permite executar manualmente
 
 jobs:
